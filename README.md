@@ -13,7 +13,8 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-My NOTES:Run `npn run build` to run build with aot,  prod, stas-json options to give minimal verison of code to deploy to production
+
+My NOTES:  Run `npn run build` to run build with aot,  prod, stas-json options to give minimal verison of code to deploy to production
 
 ## Running unit tests
 
