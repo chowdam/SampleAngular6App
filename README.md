@@ -29,9 +29,12 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 
-## Additional Lakshmi Notes
 
-## ------------Angualr6 Learning Notes------------
+
+
+## Lakshmi Chowdam's Notes
+
+## ------------------------------------------------Angualr6 Learning Notes------------------------------------
 npm install webpack-bundle-analyzer --save-dev
 ng build --stats-json
 npm run stats
@@ -92,11 +95,11 @@ ng build my-lib --prod
 
 -> for more info on how to publish go to https://jpapa.me/npmpublish
 
-##Use Angualr Console
+## Use Angualr Console
 Install consoel from https://angularconsole.com and use it to build, run and test angualr application in a user friendly GUI.
 
 
-## Auding and Security
+## Auditing and Security
 nsp check
 npm audit
 npm audit --parseable
