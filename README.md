@@ -28,7 +28,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-##My Angualr6 Learning Notes
+
+## Additional Lakshmi Notes
+
+## ------------Angualr6 Learning Notes------------
 npm install webpack-bundle-analyzer --save-dev
 ng build --stats-json
 npm run stats
@@ -38,7 +41,7 @@ ng b --aot --prod --stats-json
 
 ng serve --port 8626
 
-##Adding Angualr Material package
+## Adding Angualr Material package
 ng add @angular/material
 ng g @angular/material:material-nav --name nav
 
